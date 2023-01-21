@@ -1,0 +1,8 @@
+[objects]
+ObjectSize.obj
+hdr.obj
+data.obj
+/home/runner/work/pvsneslib/pvsneslib/pvsneslib/pvsneslib/lib/crt0_snes.obj
+/home/runner/work/pvsneslib/pvsneslib/pvsneslib/pvsneslib/lib/libc.obj
+/home/runner/work/pvsneslib/pvsneslib/pvsneslib/pvsneslib/lib/libm.obj
+/home/runner/work/pvsneslib/pvsneslib/pvsneslib/pvsneslib/lib/libtcc.obj
